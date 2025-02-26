@@ -18,5 +18,5 @@ This is a simple Notes App that allows users to add, deletenotes. The app provid
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/notes-app.git
+   gh repo clone SayfiddinovDoniyor/teamproj
 
