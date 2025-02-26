@@ -16,7 +16,9 @@ This is a simple Notes App that allows users to add, deletenotes. The app provid
 
 ## Installation
 
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
    gh repo clone SayfiddinovDoniyor/teamproj
 
+## Contri
+Feel free to fork this repository and submit pull requests with improvements!
